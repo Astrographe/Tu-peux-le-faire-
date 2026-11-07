@@ -1,0 +1,16 @@
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="1">
+    <iq:application entry="TestsApp" id="8EA0CB086400422B8CF72A2A380A4A20" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="1.2.0" name="@Strings.AppName" type="watch-app">
+        <iq:products>
+            <iq:product id="fenix7"/>
+            <iq:product id="fenix7s"/>
+            <iq:product id="fenix7x"/>
+            <iq:product id="fr255"/>
+            <iq:product id="fr955"/>
+            <iq:product id="fr965"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages>
+            <iq:language>fre</iq:language>
+        </iq:languages>
+    </iq:application>
+</iq:manifest>
